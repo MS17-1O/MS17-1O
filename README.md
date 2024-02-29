@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MS17-1O
-- 👀 I’m interested in Computer
+- 👀 I’m interested in Computer security
 - 🌱 I’m currently learning Python Discord bots
-- 💞️ I’m looking to collaborate on nothing in the moment working on a discord bot with a team
+- 💞️ I’m looking not collaborate on anything in the moment
 - 📫 How to reach me alexweir.official@gmail.com
 
 <!---
