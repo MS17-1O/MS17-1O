@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MS17-1O
 - 👀 I’m interested in Computer security
-- 🌱 I’m currently learning Python Discord bots
+- 🌱 I’m currently to start a youtube channel.
 - 💞️ I’m looking not collaborate on anything in the moment
 - 📫 How to reach me *@gmail.com
 
